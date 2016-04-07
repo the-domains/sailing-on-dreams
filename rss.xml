@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sailing On Dreams]]></title>
+        <description><![CDATA[Sailing On Dreams]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 20:56:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I have to slow down to blow my nose. The napkin bill is going through the roof. It’s the time of the year. I’m on a two-hour drive to the sea-shore because I had to get out. The house is too small sometimes, the city too loud. My mind clogs together with the decor of my days.</p>]]></description>
+            <link>undefinedi-have-to-slow-down-to-blow-my-nose-the-napkin-bill-is-goin/index.html</link>
+            <guid isPermaLink="false">97f4fecf-47bf-4709-a63b-5f49abd627b7</guid>
+            <pubDate>Thu, 07 Apr 2016 20:55:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
