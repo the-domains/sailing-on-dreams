@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sailing On Dreams]]></title>
-        <description><![CDATA[Sailing On Dreams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Sailing On Dreams - Playing mind games with soul]]></title>
+        <description><![CDATA[Sailing On Dreams - Playing mind games with soul]]></description>
+        <link>http://www.sailingondreams.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 20:56:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 21:06:34 GMT</lastBuildDate>
+        <atom:link href="http://www.sailingondreams.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Couch at Sunset]]></title>
+            <description><![CDATA[<article><h1>Couch at Sunset</h1><p>The doorbell makes me jump. I should lower the volume one day. One of those things I keep postponing. Standing up as slowly as I can helps me tame the excitement this bell forces upon me. It’s something I’m vaguely aware of. In the meantime, my steps show that somebody just made me rise out of my very comfortable chair. Well… as long as Ifeel in command… I open the door. It’s a girl. A woman. She is standing thirty-three centimetres from the threshold. She has natural red hair. Green eyes. Some freckles accentuate her cheeks. Pointy chin, elegant jaws. Fragile neck, I’m quite sure I could break it. A little hole between her collarbones. Her waist, her legs, her breasts. Oh, her breasts. I recognize her.</p></article>]]></description>
+            <link>http://www.sailingondreams.com/couch-at-sunset/index.html</link>
+            <guid isPermaLink="false">a6541a2e-798e-48e2-b5c9-87e18b267213</guid>
+            <pubDate>Thu, 07 Apr 2016 21:05:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I have to slow down to blow my nose. The napkin bill is going through the roof. It’s the time of the year. I’m on a two-hour drive to the sea-shore because I had to get out. The house is too small sometimes, the city too loud. My mind clogs together with the decor of my days.</p>]]></description>
-            <link>undefinedi-have-to-slow-down-to-blow-my-nose-the-napkin-bill-is-goin/index.html</link>
+            <link>http://www.sailingondreams.com/i-have-to-slow-down-to-blow-my-nose-the-napkin-bill-is-goin/index.html</link>
             <guid isPermaLink="false">97f4fecf-47bf-4709-a63b-5f49abd627b7</guid>
             <pubDate>Thu, 07 Apr 2016 20:55:04 GMT</pubDate>
         </item>
