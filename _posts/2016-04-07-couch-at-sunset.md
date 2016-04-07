@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The doorbell makes me jump. I should lower the volume one day. One of those things I keep postponing. Standing up as slowly as I can helps me\_tame the excitement this bell forces upon me. It’s something I’m vaguely aware of. In the meantime, my steps\_show that somebody just made me rise out of my very comfortable chair. Well… as long as Ifeel\_in command… I open the door.\_It’s a\_girl.\_A woman.\_She is standing thirty-three\_centimetres from the threshold. She has natural red hair. Green eyes. Some freckles accentuate her cheeks. Pointy chin,\_elegant jaws. Fragile neck, I’m quite sure I could break it. A little hole between her collarbones. Her waist, her legs, her breasts. Oh, her breasts. I recognize her."
-datePublished: '2016-04-07T21:05:31.510Z'
-dateModified: '2016-04-07T21:05:06.288Z'
+datePublished: '2016-04-07T21:07:27.221Z'
+dateModified: '2016-04-07T21:07:25.092Z'
 title: Couch at Sunset
 author: []
+sourcePath: _posts/2016-04-07-couch-at-sunset.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-couch-at-sunset.md
-published: true
 url: couch-at-sunset/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eec6dfca-6048-4512-9c85-ac2337a0ee2c.jpg)
+
 The doorbell makes me jump. I should lower the volume one day. One of those things I keep postponing. Standing up as slowly as I can helps me tame the excitement this bell forces upon me. It's something I'm vaguely aware of. In the meantime, my steps show that somebody just made me rise out of my very comfortable chair. Well... as long as I_feel_ in command... I open the door. It's a girl. A woman. She is standing thirty-three centimetres from the threshold. She has natural red hair. Green eyes. Some freckles accentuate her cheeks. Pointy chin, elegant jaws. Fragile neck, I'm quite sure I could break it. A little hole between her collarbones. Her waist, her legs, her breasts. Oh, her breasts. I recognize her.
 
 My smile reveals my teeth. They could cut her tender skin. I imagine drinking her blood. She smiles back. Her teeth could cut mine. There's silence. It's filled with charge. I look into her eyes. She pierces mine. Fearless.  
