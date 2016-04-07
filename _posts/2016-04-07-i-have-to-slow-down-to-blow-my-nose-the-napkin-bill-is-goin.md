@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I have to slow down to blow my nose. The napkin bill is going through the roof. It’s the time of the year. I’m on a two-hour drive to the sea-shore because I had to get out. The house is too small sometimes, the city too loud. My mind clogs together with the decor of my days.'
-datePublished: '2016-04-07T20:55:04.793Z'
-dateModified: '2016-04-07T20:54:51.079Z'
-title: ''
+datePublished: '2016-04-07T21:07:44.703Z'
+dateModified: '2016-04-07T21:07:44.324Z'
+title: Spirals
 author: []
+sourcePath: _posts/2016-04-07-i-have-to-slow-down-to-blow-my-nose-the-napkin-bill-is-goin.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-i-have-to-slow-down-to-blow-my-nose-the-napkin-bill-is-goin.md
-published: true
 url: i-have-to-slow-down-to-blow-my-nose-the-napkin-bill-is-goin/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d5f6a9a-1d49-401a-9ab3-5f9ae10e3b76.jpg)
+
 I have to slow down to blow my nose. The napkin bill is going through the roof. It's the time of the year. I'm on a two-hour drive to the sea-shore because I had to get out. The house is too small sometimes, the city too loud. My mind clogs together with the decor of my days.
 
 The roads are narrow and curvy. Red and grey rocks lay spread over the landscape. Some edgy pinnacles rise out of the surface, giving testimony of more violent times. All that grows here are lichens and dry shrubs, stuck close to the ground to seek protection from whatever dangers threaten them. Plains are alternated by enormous rock formations as far as the eye can see.
